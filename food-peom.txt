@@ -1,6 +1,6 @@
 Food include:
 burger
 pizza
-rice
 fried-chicken
+french-fried
 Food is love Food is life.
