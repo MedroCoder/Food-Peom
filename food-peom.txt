@@ -1,6 +1,8 @@
-Food include:
+Food include:and drinks
 burger
 pizza
+Coca
+Pepsi
 fried-chicken
 french-fried
 Food is love Food is life.
