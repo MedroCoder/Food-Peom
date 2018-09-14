@@ -1,0 +1,5 @@
+Food include:
+burger
+pizza
+rice
+Food is love Food is life.
