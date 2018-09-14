@@ -1,5 +1,6 @@
-Food include:and drinks
+Food include:and drinks and side-dishes
 burger
+nuggets
 pizza
 Coca
 Pepsi
