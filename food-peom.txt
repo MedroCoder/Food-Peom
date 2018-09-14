@@ -3,4 +3,5 @@ burger
 pizza
 fried-chicken
 french-fried
+Salad
 Food is love Food is life.
